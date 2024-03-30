@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brunfjell
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning HTML, CSS, Javascript, Java, C++, Phyton
+- 🌱 I’m currently learning HTML, CSS, Javascript, Java, C++, Python
 - 💞️ I’m looking to collaborate on any projects that could make use of my skill
 - 📫 How to reach me ...
 
